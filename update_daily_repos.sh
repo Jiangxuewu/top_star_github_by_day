@@ -11,13 +11,9 @@ YESTERDAY_DATE=$(date -v -1d +"%Y-%m-%d") # For macOS/BSD date command
 # 注意：这里假设github_trending_agent.py会打印Markdown内容到stdout
 REPO_MARKDOWN=$(python3 github_trending_agent.py)
 
-# 检查README.md是否存在，如果不存在则创建
-if [ ! -f "README.md" ]; then
-    echo "# GitHub Daily Trending Repositories" > README.md
-fi
-
-# 将今天的日期作为一级标题添加到README.md
-echo -e "\n# ${TODAY_DATE} GitHub Daily Trending Repositories\n" >> README.md
+# Overwrite README.md with the main title and the new content
+echo "# GitHub Daily Trending Repositories" > README.md
+echo -e "\n# ${YESTERDAY_DATE} 到 ${TODAY_DATE} GitHub Daily Trending Repositories\n" >> README.md
 echo -e "${REPO_MARKDOWN}" >> README.md
 
 # Git 操作

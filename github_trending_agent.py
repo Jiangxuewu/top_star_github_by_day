@@ -1,6 +1,7 @@
 import requests
 import os
 from datetime import datetime, timedelta
+from googletrans import Translator
 
 def get_trending_github_repos_markdown():
     # 计算昨天和今天的日期
@@ -18,6 +19,8 @@ def get_trending_github_repos_markdown():
         "order": "desc",
         "per_page": 10
     }
+
+    translator = Translator() # Initialize translator
 
     # 获取GitHub PAT
     github_token = os.getenv("GITHUB_TOKEN")
@@ -44,7 +47,13 @@ def get_trending_github_repos_markdown():
                 markdown_content += f"## {i+1}. {item['name']}\n"
                 markdown_content += f"- **URL:** {item['html_url']}\n"
                 markdown_content += f"- **Stars:** {item['stargazers_count']}\n"
-                markdown_content += f"- **Description:** {item['description'] or '无描述'}\n\n"
+                description = item['description'] or '无描述'
+                markdown_content += f"- **Description:** {description}\n"
+                try:
+                    translated_description = translator.translate(description, dest='zh-cn').text
+                    markdown_content += f"- **Description_zh:** {translated_description}\n\n"
+                except Exception as e:
+                    markdown_content += f"- **Description_zh:** 翻译失败: {e}\n\n"
         
         return markdown_content
 
