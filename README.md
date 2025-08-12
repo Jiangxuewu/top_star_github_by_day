@@ -53,3 +53,7 @@
 - **URL:** https://github.com/ssfun/llm-api-key-checker
 - **Stars:** 14
 - **Description:** LLM API KEY 检测工具
+
+# 2025-08-13 GitHub Daily Trending Repositories
+
+
