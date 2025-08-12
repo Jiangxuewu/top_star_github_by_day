@@ -16,50 +16,69 @@
 - **Description:** Stand-In is a lightweight, plug-and-play framework for identity-preserving video generation.
 - **Description_zh:** 替补是一个轻巧的，即插即用的框架，用于发行身份的视频生成。
 
-## 3. gustav
-- **URL:** https://github.com/dimitritholen/gustav
-- **Stars:** 43
-- **Description:** Gustav - a sprint orchestration framework (Beta)
-- **Description_zh:** 古斯塔夫 - 冲刺编排框架（Beta）
 
-## 4. Empeiria-Testnet-BOT
-- **URL:** https://github.com/rmndkyl/Empeiria-Testnet-BOT
-- **Stars:** 37
-- **Description:** Advanced EMPE Testnet Automation Bot with Proxy Support and Daily Scheduling
-- **Description_zh:** 高级EMPE TestNet自动化机器人，并提供代理支持和日程安排
+---
 
-## 5. kurasagi
-- **URL:** https://github.com/NeoMaster831/kurasagi
-- **Stars:** 26
-- **Description:** Windows 11 24H2 Runtime PatchGuard Bypass
-- **Description_zh:** Windows 11 24H2运行时补丁程序旁路
+# GitHub 2025-07-14 到 2025-08-13 热门项目 (Star >= 200)
 
-## 6. proj-3info2025
-- **URL:** https://github.com/marcelaleite/proj-3info2025
-- **Stars:** 19
-- **Description:** Projeto Integrado 3INFO
-- **Description_zh:** 3info集成项目
+## 1. agents
+- **URL:** https://github.com/wshobson/agents
+- **Stars:** 7989
+- **Description:** A collection of production-ready subagents for Claude Code
+- **Description_zh:** Claude Code的一系列可制作生产的子代理
 
-## 7. packycc
-- **URL:** https://github.com/petiky/packycc
-- **Stars:** 17
-- **Description:** 无描述
-- **Description_zh:** 无描述
+## 2. KittenTTS
+- **URL:** https://github.com/KittenML/KittenTTS
+- **Stars:** 7185
+- **Description:**  State-of-the-art TTS model under 25MB 😻 
+- **Description_zh:** 25MB以下的最先进的TTS模型
 
-## 8. Translator
-- **URL:** https://github.com/AnYi-0/Translator
-- **Stars:** 16
-- **Description:** 一个基于 Chrome 138+ 新增的本地 Translator API 和 Language Detector API 的轻量级翻译扩展，支持自动检测语言、离线翻译（首次可能需下载模型）、快速出结果。
-- **Description_zh:** 一个基于 Chrome 138+ 新增的本地 Translator API 和 Language Detector API 的轻量级翻译扩展，支持自动检测语言、离线翻译（首次可能需下载模型）、快速出结果。
+## 3. agents
+- **URL:** https://github.com/contains-studio/agents
+- **Stars:** 6879
+- **Description:** sharing current agents in use
+- **Description_zh:** 共享当前使用的代理
 
-## 9. 2029-Group-C-WebDev
-- **URL:** https://github.com/mrinal1224/2029-Group-C-WebDev
-- **Stars:** 16
-- **Description:** 无描述
-- **Description_zh:** 无描述
+## 4. TrackWeight
+- **URL:** https://github.com/KrishKrosh/TrackWeight
+- **Stars:** 6745
+- **Description:** Use your Mac trackpad as a weighing scale
+- **Description_zh:** 将您的MAC触控板作为称重量表
 
-## 10. llm-api-key-checker
-- **URL:** https://github.com/ssfun/llm-api-key-checker
-- **Stars:** 14
-- **Description:** LLM API KEY 检测工具
-- **Description_zh:** LLM API KEY 检测工具
+## 5. higgs-audio
+- **URL:** https://github.com/boson-ai/higgs-audio
+- **Stars:** 6706
+- **Description:** Text-audio foundation model from Boson AI
+- **Description_zh:** Boson AI的Text-Audio基金会模型
+
+## 6. open-lovable
+- **URL:** https://github.com/mendableai/open-lovable
+- **Stars:** 6415
+- **Description:** 🔥 Clone and recreate any website as a modern React app in seconds
+- **Description_zh:** 🔥克隆并重新创建任何网站，作为现代React应用程序在几秒钟内
+
+## 7. Bella
+- **URL:** https://github.com/Jackywine/Bella
+- **Stars:** 5428
+- **Description:** Bella is best
+- **Description_zh:** 贝拉最好
+
+## 8. joyagent-jdgenie
+- **URL:** https://github.com/jd-opensource/joyagent-jdgenie
+- **Stars:** 4468
+- **Description:** 开源的端到端产品级通用智能体
+- **Description_zh:** 开源的端到端产品级通用智能体
+
+## 9. ai-goofish-monitor
+- **URL:** https://github.com/dingyufei615/ai-goofish-monitor
+- **Stars:** 4389
+- **Description:** 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
+- **Description_zh:** 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
+
+## 10. YJYpaper
+- **URL:** https://github.com/zouzhekang/YJYpaper
+- **Stars:** 3502
+- **Description:** 一个用来记录武汉大学杨景媛论文问题的仓库
+- **Description_zh:** 一个用来记录武汉大学杨景媛论文问题的仓库
+
+
