@@ -53,7 +53,7 @@
 
 ## 6. open-lovable
 - **URL:** https://github.com/mendableai/open-lovable
-- **Stars:** 6415
+- **Stars:** 6416
 - **Description:** 🔥 Clone and recreate any website as a modern React app in seconds
 - **Description_zh:** 🔥克隆并重新创建任何网站，作为现代React应用程序在几秒钟内
 
