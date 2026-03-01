@@ -1,78 +1,126 @@
 # GitHub Daily Trending Repositories
 
-# 2025-12-21 到 2025-12-22 GitHub Daily Trending Repositories
+# 2026-02-28 到 2026-03-01 GitHub Daily Trending Repositories
 
-# GitHub 2025-12-21 到 2025-12-22 热门项目
+# GitHub 2026-02-28 到 2026-03-01 热门项目
 
-## 1. Agent-Skills-for-Context-Engineering
-- **URL:** https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering
-- **Stars:** 88
-- **Description:** A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-- **Description_zh:** 用于上下文工程、多代理架构和生产代理系统的代理技能的全面集合。在构建、优化或调试需要有效上下文管理的代理系统时使用。
+## 1. wechat-decrypt
+- **URL:** https://github.com/ylytdeng/wechat-decrypt
+- **Stars:** 559
+- **Description:** WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
+- **Description_zh:** 翻译失败: timed out
+
+## 2. Day1Global-Skills
+- **URL:** https://github.com/star23/Day1Global-Skills
+- **Stars:** 140
+- **Description:** Day1Global Skills Share
+- **Description_zh:** 翻译失败: timed out
+
+## 3. CForum
+- **URL:** https://github.com/adysec/CForum
+- **Stars:** 127
+- **Description:** CForum — A modern, serverless forum built on Cloudflare Workers + Pages + D1 + R2, featuring posts, threaded comments, image uploads, 2FA authentication, and a hybrid deployment architecture optimized through smart edge routing.
+- **Description_zh:** 翻译失败: timed out
+
+## 4. ui-design-brain
+- **URL:** https://github.com/carmahhawwari/ui-design-brain
+- **Stars:** 120
+- **Description:** A Cursor skill that gives AI agents real UI component knowledge — best practices, layout patterns, and design-system conventions for 60+ interface components — so it generates production-grade UI instead of generic output.
+- **Description_zh:** 翻译失败: timed out
+
+## 5. vphone-aio
+- **URL:** https://github.com/34306/vphone-aio
+- **Stars:** 120
+- **Description:** 1 script run the vphone
+- **Description_zh:** 翻译失败: timed out
+
+## 6. voicepaste
+- **URL:** https://github.com/junyuw2289-svg/voicepaste
+- **Stars:** 75
+- **Description:** 无描述
+- **Description_zh:** 翻译失败: timed out
+
+## 7. loom
+- **URL:** https://github.com/bleuropa/loom
+- **Stars:** 56
+- **Description:** An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI
+- **Description_zh:** 翻译失败: timed out
+
+## 8. gitcredits
+- **URL:** https://github.com/Higangssh/gitcredits
+- **Stars:** 53
+- **Description:** Roll movie-style credits for your git repo — right in the terminal
+- **Description_zh:** 翻译失败: timed out
+
+## 9. jina-cli
+- **URL:** https://github.com/geekjourneyx/jina-cli
+- **Stars:** 50
+- **Description:** A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.
+- **Description_zh:** 翻译失败: timed out
 
 
 ---
 
-# GitHub 2025-11-22 到 2025-12-22 热门项目 (Star >= 200)
+# GitHub 2026-01-30 到 2026-03-01 热门项目 (Star >= 200)
 
-## 1. Open-AutoGLM
-- **URL:** https://github.com/zai-org/Open-AutoGLM
-- **Stars:** 18404
-- **Description:** An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-- **Description_zh:** 开放电话代理模型和框架。为所有人解锁AI手机
+## 1. nanobot
+- **URL:** https://github.com/HKUDS/nanobot
+- **Stars:** 26899
+- **Description:** "🐈 nanobot: The Ultra-Lightweight OpenClaw"
+- **Description_zh:** 翻译失败: timed out
 
-## 2. llm-council
-- **URL:** https://github.com/karpathy/llm-council
-- **Stars:** 11789
-- **Description:** LLM Council works together to answer your hardest questions
-- **Description_zh:** LLM 委员会共同努力回答您最棘手的问题
+## 2. zeroclaw
+- **URL:** https://github.com/zeroclaw-labs/zeroclaw
+- **Stars:** 21183
+- **Description:** Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀
+- **Description_zh:** 翻译失败: timed out
 
-## 3. Z-Image
-- **URL:** https://github.com/Tongyi-MAI/Z-Image
-- **Stars:** 7558
-- **Description:** 无描述
-- **Description_zh:** 无描述
+## 3. picoclaw
+- **URL:** https://github.com/sipeed/picoclaw
+- **Stars:** 21131
+- **Description:** Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
+- **Description_zh:** 翻译失败: timed out
 
-## 4. banana-slides
-- **URL:** https://github.com/Anionex/banana-slides
-- **Stars:** 5491
-- **Description:** 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
-- **Description_zh:** 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
+## 4. nanoclaw
+- **URL:** https://github.com/qwibitai/nanoclaw
+- **Stars:** 16596
+- **Description:** A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+- **Description_zh:** 翻译失败: timed out
 
-## 5. ml-sharp
-- **URL:** https://github.com/apple/ml-sharp
-- **Stars:** 4507
-- **Description:** Sharp Monocular View Synthesis in Less Than a Second
-- **Description_zh:** 不到一秒即可实现清晰的单目视图合成
+## 5. awesome-openclaw-usecases
+- **URL:** https://github.com/hesamsheikh/awesome-openclaw-usecases
+- **Stars:** 13260
+- **Description:** A community collection of OpenClaw use cases for making life easier.
+- **Description_zh:** 翻译失败: timed out
 
-## 6. awesome-nano-banana-pro-prompts
-- **URL:** https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
-- **Stars:** 4209
-- **Description:** 🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
-- **Description_zh:** 🍌 1000 多个精选 Nano Banana Pro 提示，带有图像、多语言支持和即时图库预览。开源提示工程库
+## 6. awesome-ai-research-writing
+- **URL:** https://github.com/Leey21/awesome-ai-research-writing
+- **Stars:** 8186
+- **Description:** Elevate your AI research writing, no more tedious polishing ✨ 
+- **Description_zh:** 翻译失败: timed out
 
-## 7. RedInk
-- **URL:** https://github.com/HisMax/RedInk
-- **Stars:** 3971
-- **Description:** 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
-- **Description_zh:** 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
+## 7. llmfit
+- **URL:** https://github.com/AlexsJones/llmfit
+- **Stars:** 6973
+- **Description:** 497 models. 133 providers. One command to find what runs on your hardware.
+- **Description_zh:** 翻译失败: timed out
 
-## 8. sbox-public
-- **URL:** https://github.com/Facepunch/sbox-public
-- **Stars:** 3431
-- **Description:** s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
-- **Description_zh:** s&box 是一款现代游戏引擎，基于 Valve 的 Source 2 和最新的 .NET 技术构建，它为创建游戏提供了现代直观的编辑器
+## 8. ClawWork
+- **URL:** https://github.com/HKUDS/ClawWork
+- **Stars:** 5911
+- **Description:** "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
+- **Description_zh:** 翻译失败: timed out
 
-## 9. ClashMac
-- **URL:** https://github.com/666OS/ClashMac
-- **Stars:** 2648
-- **Description:** 基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.
-- **Description_zh:** 基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.
+## 9. openfang
+- **URL:** https://github.com/RightNow-AI/openfang
+- **Stars:** 5647
+- **Description:** Open-source Agent Operating System
+- **Description_zh:** 翻译失败: timed out
 
-## 10. agentskills
-- **URL:** https://github.com/agentskills/agentskills
-- **Stars:** 2467
-- **Description:** Specification and documentation for Agent Skills
-- **Description_zh:** 代理技能规范和文档
+## 10. react-doctor
+- **URL:** https://github.com/millionco/react-doctor
+- **Stars:** 5061
+- **Description:** Let coding agents diagnose and fix your React code
+- **Description_zh:** 翻译失败: timed out
 
 
